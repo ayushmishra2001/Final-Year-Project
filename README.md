@@ -37,6 +37,7 @@ Clone the repository to your local machine and set up the required dependencies.
 Open bash
 git clone [https://github.com/ayushmishra2001/Final-Year-Project.git]
 cd Robotic-Process-Automation-ML
+
 Step 2: RPA Implementation
 Implement the RPA tasks for automating data fetching from websites. Use RPA tools or frameworks to streamline the automation process.
 
